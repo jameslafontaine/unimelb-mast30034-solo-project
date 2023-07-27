@@ -134,3 +134,6 @@ data/raw/
 
 # OSX .DS_Store file
 .DS_Store
+
+# To-do list
+todo.txt
