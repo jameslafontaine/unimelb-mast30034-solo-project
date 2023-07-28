@@ -136,4 +136,7 @@ data/raw/
 .DS_Store
 
 # To-do list
-todo.txt
+#todo.txt
+
+# Tips and Questions
+#tips_and_questions.ipynb

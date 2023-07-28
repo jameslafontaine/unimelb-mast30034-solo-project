@@ -1,0 +1,19 @@
+- ensure quirks / limitations of data are being accounted for by carefully consulting data dictionaries
+- ensure appropriate comments and docstrings (for functions) are included where necessary, ensure that cells 
+  have a clear purpose and are separated appropriately
+- could look to also create scripts containing the notebook code to perform preprocessing and download of data 
+  to give tutors a more automated and simpler way of obtaining the data and aggregations / sample dataframes
+- ensure that each aggregation / sample dataframe is saved as its own parquet to enable easy access and prevent
+  memory issues
+- if the downloading of external data cannot be automated and the dataset is large, provide instructions and
+  screenshots to show tutors how to obtain the data (if small then just upload to git)
+- Justify post-COVID timeline selection by noting that taxi and fhv passenger usage may not be the same as it was 
+  pre-COVID. In any case it is believed that the most recent data will likely provide the most relevant and up-to-date insights for 
+  current Taxi and FHV drivers. The goal of this research is to investigate the several factors which influence a 
+  Taxi / FHV driver's income such as where and when they work, who they work for, etc. and to investigate
+  the reasons as to why this may be the case where necessary so recommendations can be provided to Taxi and FHV drivers.
+  Therefore the target audience of this research is Taxi and FHV drivers who are looking for ways in which
+  they can personally maximise their income without simply working more hours.
+- For external datasets, use things such as ongoing sports events, protests, weather forecasts (e.g. impact
+  of snow), vehicle crashes, raves and music festivals, public holidays (e.g. compare halloween and christmas to regular
+  day), etc.
