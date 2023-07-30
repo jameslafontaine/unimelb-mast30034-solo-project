@@ -17,3 +17,8 @@
 - For external datasets, use things such as ongoing sports events, protests, weather forecasts (e.g. impact
   of snow), vehicle crashes, raves and music festivals, public holidays (e.g. compare halloween and christmas to regular
   day), etc.
+- For visualisation consider boxplots, histograms, bar charts, scatter plots / scatter matrices / bubble plots, parallel coordinates, etc.
+  (scatter matrices of features, bar chart of tip amount or earnings by day, week, month, etc. with taxi and different fhvs side by side)
+- Could conduct further studies on other for hire services (traditional livery, luxury and black cars)
+- Clean up download.ipynb by making function for data download and csv to parquet conversion potentially, reorganise to reduce duplicate code (use variables for repeated directory names etc.)
+- Clean up preprocessing.ipynb by making function for fixing malformed dataframe schema and potentially making directiories as well
