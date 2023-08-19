@@ -5,7 +5,7 @@
 - Student ID: `INSERT YOUR STUDENT ID HERE`
 
 ## Student Instructions
-You **must** write up `README.md` for this repository to be eligable for readability marks.
+You **must** write up `README.md` for this repository to be eligible for readability marks.
 
 1. Students must keep all Jupyter Notebooks in the `notebooks` directory.
 2. Students must keep all `.py` scripts under the `scripts` directory. These can include helper functions and modules with relevant `__init__.py`
