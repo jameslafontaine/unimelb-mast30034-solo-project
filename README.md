@@ -19,5 +19,7 @@ To run the pipeline, please visit the `notebooks` directory and run the files in
 6. `data_analysis_temporal.ipynb`: This notebook is used to conduct temporal analysis on the combined data.
 7. `data_analysis_external.ipynb`: This notebook is used to conduct external dataset feature analysis on the combined data.
 8. `modelling_linregression.ipynb`: This notebook is used to fit/tune linear regression models.
-9. `modelling_xgboost.ipynb`: This notebook is used to fit/tune xgboost models. Note that the hyperparameter tuning cells may take a while to run if desired.
+9. `modelling_xgboost.ipynb`: This notebook is used to fit/tune xgboost models. Note that the hyperparameter tuning cells may take a while to run if desired. 
+                              The kernel may also crash if attempting to fit all the models in one go, you may have to restart the kernel and rerun the cells all the way up until
+                              the models begin to be fitted and start from where the kernel crashed.
 10. `modelling_comparison.ipynb`: This notebook is used to compare the the linear regression and xgboost models.
