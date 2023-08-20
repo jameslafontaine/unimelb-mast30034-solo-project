@@ -133,6 +133,9 @@ data/curated/*
 data/raw/*
 data/landing/*
 
+!data/landing/subway_entr_exit/
+
+data/landing/subway_entr_exit.parquet
 
 !data/landing/census/
 
