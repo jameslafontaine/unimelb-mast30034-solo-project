@@ -129,15 +129,26 @@ dmypy.json
 .pyre/
 
 # data
-data/curated/
-data/raw/
-data/landing/
+data/curated/*
+data/raw/*
+data/landing/*
+
+
+!data/landing/census/
+
+census_block_loc.csv
+
+census_block_loc.parquet
+
+census_tracts.parquet
+
+nyc_census_tracts.csv
 
 # OSX .DS_Store file
 .DS_Store
 
 # To-do list
-#todo.txt
+todo.txt
 
 # Tips and Questions
 #tips_and_questions.ipynb
@@ -150,4 +161,4 @@ sparkfunctions.ipynb
 
 tips_and_questions.ipynb
 
-modelling_comparison.ipynb
+
